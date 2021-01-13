@@ -5,7 +5,6 @@
 project.geany
 composer.phar
 phpunit.phar
-config/config.php
 /vendor/
 /sessions/
 /web/debugger/
