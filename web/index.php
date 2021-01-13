@@ -1,4 +1,6 @@
 <?php
+echo 'test';
+exit;
 // Change directory to project root
 chdir(__DIR__ . '/..');
 // Use default autoload implementation
